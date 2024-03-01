@@ -90,18 +90,18 @@ var style = document.createElement('style');
 
         #BOJS-BOX > .wincontainer button,
         .copy-tools > button {
-            border-image: url(https://cdn.discordapp.com/attachments/450024393628844032/1099010360532549643/button.png) 6 repeat !important;
+            border-image: url(https://raw.githubusercontent.com/NoT0BoT/MooMoo.io-MooMod/master/button.png) 6 repeat !important;
             background-color: #151515 !important;
         }
 
         #BOJS-BOX > .wincontainer button:active,
         .copy-tools > button:active {
-            border-image: url(https://cdn.discordapp.com/attachments/450024393628844032/1099010360788385852/button_pressed.png) 6 repeat !important;
+            border-image: url(https://raw.githubusercontent.com/NoT0BoT/MooMoo.io-MooMod/master/button_pressed.png) 6 repeat !important;
         }
 
         #BOJS-BOX > .wincontainer,
         .copy-tools {
-            border-image: url(https://cdn.discordapp.com/attachments/450024393628844032/1099010361279135844/window_in.png) 5 repeat !important;
+            border-image: url(https://raw.githubusercontent.com/NoT0BoT/MooMoo.io-MooMod/master/window_in.png) 5 repeat !important;
             background-color: #3d3d3d !important;
         }
 
@@ -115,7 +115,7 @@ var style = document.createElement('style');
 
         .BOJS-BOX,
         #copy-tools {
-            border-image: url(https://cdn.discordapp.com/attachments/450024393628844032/1099010361509806150/window_out.png) 11 repeat !important;
+            border-image: url(https://raw.githubusercontent.com/NoT0BoT/MooMoo.io-MooMod/master/window_out.png) 11 repeat !important;
             border-image-outset: 4px !important;
             background-color: #151515 !important;
         }
